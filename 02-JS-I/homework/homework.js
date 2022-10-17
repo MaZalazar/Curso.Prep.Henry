@@ -259,7 +259,7 @@ function deEuroAdolar(euro){
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
 
-  var cambio = 1,20
+  var cambio = 1.20
 
   return euro * cambio;
   
@@ -322,4 +322,5 @@ module.exports = {
   areaDelTriangulo,
   deEuroAdolar,
   esVocal,
-};
+}
+}
